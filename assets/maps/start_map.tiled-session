@@ -1,0 +1,394 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "landingMap.tmx",
+    "expandedProjectPaths": [
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/rocky-top-down/Tiled_files",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/spaceship",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files",
+        ".",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/swamp-top-down",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/forest-topdown",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/grassland/Tiled_files",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/swamp-top-down/Tiled_files",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/winter-top-down",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/undead/Tiled_files",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/desert/Tiled_files",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/undead",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/forest-topdown/Tiled_files",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/desert",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/winter-top-down/Tiled_files"
+    ],
+    "fileStates": {
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files/Cave.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 384,
+                "y": 255.75
+            }
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files/Cave.tmx#Crystals_rocks": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files/Cave.tmx#Ground": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files/Cave.tmx#Lava": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files/Cave.tmx#Lava_detilazation": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files/Cave.tmx#Objects_animated": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files/Cave.tmx#Objects_animated2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files/Cave.tmx#Water_coasts": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files/Cave.tmx#bubbles": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files/Cave.tmx#details": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files/Cave.tmx#spots": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files/Water_detilazation2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/desert/Tiled_files/Desert.tmx": {
+            "scale": 2,
+            "selectedLayer": 33,
+            "viewCenter": {
+                "x": 127.5,
+                "y": 128
+            }
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/desert/Tiled_files/Desert.tmx#Animated_objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/desert/Tiled_files/Desert.tmx#Details": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/desert/Tiled_files/Desert.tmx#Ground_grass": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/desert/Tiled_files/Desert.tmx#Objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/desert/Tiled_files/Desert.tmx#Water_coasts": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/desert/Tiled_files/Desert.tmx#Water_detilazation": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/desert/Tiled_files/Desert.tmx#rocks_details": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/desert/Tiled_files/Desert.tmx#sand": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/desert/Tiled_files/Desert.tmx#spots": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/desert/Tiled_files/Water_detilazation2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/forest-topdown/Tiled_files/Forest.tmx": {
+            "scale": 1.7688802083333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 382.72800883327204,
+                "y": 254.3982333456018
+            }
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/forest-topdown/Tiled_files/Forest.tmx#Ground_grass": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/forest-topdown/Tiled_files/Forest.tmx#Objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/forest-topdown/Tiled_files/Forest.tmx#Water_coasts": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/forest-topdown/Tiled_files/Forest.tmx#Water_detilazation": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/forest-topdown/Tiled_files/Forest.tmx#lianas": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/forest-topdown/Tiled_files/Forest.tmx#spots": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/forest-topdown/Tiled_files/Forest.tmx#spots_rock": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/forest-topdown/Tiled_files/Forest.tmx#stairs_grass": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/forest-topdown/Tiled_files/Forest.tmx#water_lilis": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/forest-topdown/Tiled_files/Water_detilazation2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/grassland/Tiled_files/Glades.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 400.5,
+                "y": 272.25
+            }
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/grassland/Tiled_files/Glades.tmx#Details": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/grassland/Tiled_files/Glades.tmx#Ground_grass": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/grassland/Tiled_files/Glades.tmx#Trees_rocks": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/grassland/Tiled_files/Glades.tmx#Water_coasts": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/grassland/Tiled_files/Glades.tmx#Water_detilazation": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/grassland/Tiled_files/Water_detilazation2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/rocky-top-down/Tiled_files/Rocky_area.tmx": {
+            "scale": 1.9049479166666667,
+            "selectedLayer": 21,
+            "viewCenter": {
+                "x": 384.2624743677375,
+                "y": 256.174982911825
+            }
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/rocky-top-down/Tiled_files/Rocky_area.tmx#Ground_grass": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/rocky-top-down/Tiled_files/Rocky_area.tmx#Objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/rocky-top-down/Tiled_files/Rocky_area.tmx#Water_coasts": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/rocky-top-down/Tiled_files/Rocky_area.tmx#Water_detilazation": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/rocky-top-down/Tiled_files/Rocky_area.tmx#Water_under_objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/rocky-top-down/Tiled_files/Rocky_area.tmx#Waterfalls": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/rocky-top-down/Tiled_files/Rocky_area.tmx#details": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/rocky-top-down/Tiled_files/Water_detilazation2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/spaceship/spaceship.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/spaceship/thespaceship.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/swamp-top-down/Tiled_files/Swamp.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 383,
+                "y": 255
+            }
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/swamp-top-down/Tiled_files/Swamp.tmx#Ground_grass_swamp": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/swamp-top-down/Tiled_files/Swamp.tmx#Objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/swamp-top-down/Tiled_files/Swamp.tmx#duckweed": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/swamp-top-down/Tiled_files/Swamp.tmx#spots": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/swamp-top-down/Tiled_files/Swamp.tmx#sprites_animated": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/swamp-top-down/Tiled_files/Water_coasts..tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/swamp-top-down/Tiled_files/Water_detilazation2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/swamp-top-down/Tiled_files/Water_detilazation3.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/swamp-top-down/Tiled_files/water_lilis.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/winter-top-down/Tiled_files/Winter.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -384.5,
+                "y": 0
+            }
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/winter-top-down/Tiled_files/Winter.tmx#Ground_ice": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/winter-top-down/Tiled_files/Winter.tmx#Objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/winter-top-down/Tiled_files/Winter.tmx#Snow": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/winter-top-down/Tiled_files/Winter.tmx#Water_detilazation": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/winter-top-down/Tiled_files/Winter.tmx#cracks": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/winter-top-down/Tiled_files/Winter.tmx#details": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/winter-top-down/Tiled_files/Winter.tmx#spots": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/IdeaProjects/terd_mmme/assets/maps/landingMap.tmx": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 512,
+                "y": 511.5
+            }
+        },
+        "C:/Users/Mannocci/IdeaProjects/terd_mmme/assets/maps/landingMap.tmx#Objects": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/IdeaProjects/terd_mmme/assets/maps/landingMap.tmx#Rocky": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/IdeaProjects/terd_mmme/assets/maps/landingMap.tmx#Trees_rocks": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/IdeaProjects/terd_mmme/assets/maps/landingMap.tmx#Water_coasts": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/IdeaProjects/terd_mmme/assets/maps/landingMap.tmx#ground_grasss": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/IdeaProjects/terd_mmme/assets/maps/landingMap.tmx#thespaceshipx256": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/IdeaProjects/terd_mmme/assets/maps/ressources/grass.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/IdeaProjects/terd_mmme/assets/maps/ressources/water_detilazation.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/IdeaProjects/terd_mmme/assets/ressources/grassland/Tiled_files/Water_detilazation2.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mannocci/IdeaProjects/terd_mmme/assets/ressources/spaceship/thespaceship.tsx": {
+            "scaleInDock": 1
+        },
+        "landingMap.tmx": {
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 569,
+                "y": 605
+            }
+        },
+        "landingMap.tmx#Objects": {
+            "scaleInDock": 0.5
+        },
+        "landingMap.tmx#Rocky": {
+            "scaleInDock": 2
+        },
+        "landingMap.tmx#Trees_rocks": {
+            "scaleInDock": 2
+        },
+        "landingMap.tmx#Water_coasts": {
+            "scaleInDock": 1.5
+        },
+        "landingMap.tmx#ground_grasss": {
+            "scaleInDock": 3
+        },
+        "landingMap.tmx#thespaceshipx256": {
+            "scaleInDock": 1
+        },
+        "ressources/Water_coasts.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "ressources/grass.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "ressources/ground_grasss.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ressources/water_detilazation.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ressources/water_detilazation_v2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Mannocci/Documents/MapTripleMe/ressources/rocky-area/PNG",
+    "map.height": 64,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 64,
+    "openFiles": [
+        "C:/Users/Mannocci/IdeaProjects/terd_mmme/assets/maps/landingMap.tmx",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files/Cave.tmx",
+        "landingMap.tmx"
+    ],
+    "project": "start_map.tiled-project",
+    "recentFiles": [
+        "C:/Users/Mannocci/IdeaProjects/terd_mmme/assets/maps/landingMap.tmx",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/cave/Tiled_files/Cave.tmx",
+        "landingMap.tmx",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/swamp-top-down/Tiled_files/Swamp.tmx",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/forest-topdown/Tiled_files/Forest.tmx",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/grassland/Tiled_files/Glades.tmx",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/winter-top-down/Tiled_files/Winter.tmx",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/spaceship/thespaceship.tsx",
+        "C:/Users/Mannocci/Documents/MapTripleMe/ressources/desert/Tiled_files/Desert.tmx",
+        "ressources/grass.tsx",
+        "ressources/Water_coasts.tsx",
+        "ressources/ground_grasss.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0
+}

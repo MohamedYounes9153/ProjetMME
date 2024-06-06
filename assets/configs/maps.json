@@ -1,0 +1,18 @@
+{
+  "landingMap": {
+    "tmxPath": "maps/landingMap.tmx",
+    "width": 1024,
+    "height": 1024,
+    "mapList": [
+      "mine"
+    ]
+  },
+  "mine": {
+    "tmxPath": "",
+    "width": 1024,
+    "height": 1024,
+    "mapList": [
+      "landingMap"
+    ]
+  }
+}
